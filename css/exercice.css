@@ -41,4 +41,16 @@
 
 /* 6. exercice-all-in-1 */
 
+.exercice-all-in-1 .container {
+  display: flex;
+  flex-flow: column-reverse;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.exercice-all-in-1 .element-green {
+  order: -1;
+  align-self: flex-start;
+}
+
 /* 7. exercice-all-in-2 */
