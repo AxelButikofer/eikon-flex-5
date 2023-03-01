@@ -15,6 +15,16 @@
 
 /* 3. exercice-baseline-3 */
 
+.exercice-baseline-3 .container {
+  display: flex;
+  align-items: baseline;
+  align-items: center;
+}
+
+.exercice-baseline-3 .container-small {
+  justify-content: center;
+}
+
 /* 4. exercice-flow-1 */
 
 /* 5. exercice-flow-2 */
